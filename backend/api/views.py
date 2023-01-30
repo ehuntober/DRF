@@ -14,6 +14,7 @@ def api_home(request,*args,**kwargs):
         pass
     print(data)
     data['header'] = request.headers
+    data['content_type'] = request.content_type
     
     return JsonResponse({
         "message": "Hi there, this is your DJango API response"
