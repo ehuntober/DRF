@@ -2,7 +2,7 @@ import requests
 
 # endpoint = "hhttps://httpbin.org/status/200"
 # endpoint = "https://httpbin.org/anything"
-endpoint = "http://127.0.0.1:8000/api/"
+endpoint = "http://127.0.0.1:8000/ap/"
 
 
 get_response =requests.post(endpoint,json={'title':"hello world"}) # HTTP Request
