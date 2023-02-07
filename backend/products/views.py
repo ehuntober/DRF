@@ -1,6 +1,5 @@
 from django.shortcuts import render
-frm
-
+from django
 # Create your views here.
 
 from .models import Product
