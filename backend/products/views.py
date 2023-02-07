@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django
+from rest_framework import generics
 # Create your views here.
 
 from .models import Product
