@@ -2,8 +2,7 @@
 $project
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+$this is just a mini django restframework for sending an API of database
 
 Look how easy it is to use:
 
