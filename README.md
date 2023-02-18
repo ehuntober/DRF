@@ -7,7 +7,7 @@ $this is just a mini django restframework for sending an API of database
 Look how easy it is to use:
 
     import project
-    # Get your stuff done
+    # Get your stuff done and nthing else..
     project.do_stuff()
 
 Features
