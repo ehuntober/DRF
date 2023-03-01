@@ -15,6 +15,7 @@ Features
 
 - Be awesome
 - Make things faster
+- easier to work with.
 
 Installation
 ------------
